@@ -1,4 +1,4 @@
-#Dictionary Parser
+# Dictionary Parser
 
 This program parses a text file containing a list of words and creates two output files: one containing sequences of four characters that occur in the words in alphabetical order and another containing the words that contain these sequences.
 
